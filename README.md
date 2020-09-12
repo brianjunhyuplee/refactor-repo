@@ -8,8 +8,17 @@ The given code can be improved my applying semantic tags and alt tags
 ![Image of code that do not satisfy guidelines](assets/images/code-err-snip.png)
 **2.  Apply fixes for the semantic tags**
 
-Example:
+Examples of nonsemantic tags:
 ```bash
-<strike><div class=header></strike>
-<header>
+<div class="header">
+<div class="content">
+<div class="search-engine-optimization">
+...
+```
+Examples of nonsemantic tag fixes:
+```bash
+<header
+<main class="content">
+<section class="search-engine-optimization">
+...
 ```
