@@ -54,7 +54,8 @@ p {
     font-size: 16px;
 }
 
-.hero {
+/* changed class name to better describe purpose */
+.add-image-meeting {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
