@@ -7,7 +7,7 @@
 The given code can be improved my applying semantic tags and alt tags
 ![Image of code that do not satisfy guidelines](assets/images/code-err-snip.png)
 **2.  Apply fixes for the semantic tags**
-
+1. For HTML
 Examples of nonsemantic tags:
 ```bash
 <div class="header">
@@ -17,8 +17,44 @@ Examples of nonsemantic tags:
 ```
 Examples of nonsemantic tag fixes:
 ```bash
-<header
+<header>
 <main class="content">
 <section class="search-engine-optimization">
 ...
 ```
+
+2. For CSS
+Examples of unfixed css classes:
+```bash
+.header{
+    ...
+}
+.header h1{
+    ...
+}
+.footer{
+    ...
+}
+.footer h2{
+    ...
+}
+...
+```
+Examples of fixed css classes:
+```bash
+header{
+    ...
+}
+header h1{
+    ...
+}
+footer{
+    ...
+}
+footer h2{
+    ...
+}
+...
+...
+```
+**2.  Apply fixes for the semantic tags on CSS**
