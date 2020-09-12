@@ -15,13 +15,14 @@ header {
     background-color: #2a607c;
     color: #ffffff;
 }
-
-.header h1 {
+/* changed .header h1 to header h1 to match the html change */
+header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
-.header h1 .seo {
+/* changed .header h1 seo to header h1 .colorchange to match the html change */
+header h1 .colorchange {
     color: #d9dcd6;
 }
 
