@@ -1,7 +1,8 @@
 # Refactorization for Horiseon Website
-## Objective: *Refactoring existing html and css files to _meet semantic tag guidelines_ and _identify potential accessibilty issues_*
+## Objective: 
+Refactoring existing html and css files to _meet semantic tag guidelines_ and _identify potential accessibilty issues_
 ![Image of Horiseon Webpage](assets/images/screenshot.png)
-## *Process*
+## Process
 1.  Read provided HTML to identify potential issues
 
 The given code can be improved my applying semantic tags and alt tags
