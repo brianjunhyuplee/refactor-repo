@@ -82,7 +82,7 @@ footer h2{
 * [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 ## Deployed Link:
-* [Horiseon_Webpage]https://brianjunhyuplee.github.io/refactor-repo/
+* [Horiseon_Webpage](https://brianjunhyuplee.github.io/refactor-repo/)
 
 ## Authors:
 * **Brian Lee**
