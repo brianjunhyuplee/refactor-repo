@@ -32,7 +32,7 @@ Semantic tags can make it easier for programmers to identify what segments of co
 <div class="search-engine-optimization">
 ...
 ```
-*Examples of nonsemantic tag fixes:*
+*Examples of semantic tag fixes:*
 ```bash
 <header>
 <main class="content">
