@@ -42,7 +42,9 @@ Semantic tags can make it easier for programmers to identify what segments of co
 
 2. For CSS
 
-*Examples of unfixed css classes:*
+With the changes to the HTML file, some changes must be added to the CSS file to correspond accordingly.
+
+*Examples of unfixed CSS classes:*
 ```bash
 .header{
     ...
@@ -58,7 +60,7 @@ Semantic tags can make it easier for programmers to identify what segments of co
 }
 ...
 ```
-*Examples of fixed css classes:*
+*Examples of fixed CSS classes:*
 ```bash
 header{
     ...
