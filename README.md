@@ -1,4 +1,11 @@
 # Refactorization of Code for Horiseon Website
+## Table of contents
+* [Prerequisites](https://github.com/brianjunhyuplee/refactor-repo#prerequisites)
+* [Objectives](https://github.com/brianjunhyuplee/refactor-repo#objective)
+* [Process](https://github.com/brianjunhyuplee/refactor-repo#process)
+* [Built-With](https://github.com/brianjunhyuplee/refactor-repo#built-with)
+* [Deployed-Link](https://github.com/brianjunhyuplee/refactor-repo#deployed-link)
+* [Authors](https://github.com/brianjunhyuplee/refactor-repo#authors)
 ## Prerequisites:
 * Computer with internet access
 ## Objective: 
@@ -86,4 +93,15 @@ footer h2{
 
 ## Authors:
 * **Brian Lee**
+* [GitHub](https://github.com/brianjunhyuplee)
+* [LinkedIn](https://www.linkedin.com/in/brian-lee-559208187/)
 
+## License:
+
+This project is licensed under the [MIT-License](https://www.mit.edu/~amini/LICENSE.md)
+
+## Acknowledgments:
+* Jerome Chenette (Lead Instructor of UCB Bootcamp)
+* Kerwin Hy (TA at UCB Bootcamp)
+* Manuel S Nunes (Instructor at UCB Bootcamp)
+* Roger Le (Instructor at UCB Bootcamp)
