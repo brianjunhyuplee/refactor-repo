@@ -6,6 +6,8 @@
 * [Built-With](https://github.com/brianjunhyuplee/refactor-repo#built-with)
 * [Deployed-Link](https://github.com/brianjunhyuplee/refactor-repo#deployed-link)
 * [Authors](https://github.com/brianjunhyuplee/refactor-repo#authors)
+* [License](https://github.com/brianjunhyuplee/refactor-repo#license)
+* [Acknowledgements](https://github.com/brianjunhyuplee/refactor-repo#acknowledgments)
 ## Prerequisites:
 * Computer with internet access
 ## Objective: 
@@ -91,8 +93,8 @@ footer h2{
 ## Deployed Link:
 * [Horiseon_Webpage](https://brianjunhyuplee.github.io/refactor-repo/)
 
-## Authors:
-* **Brian Lee**
+## Author(s):
+**Brian Lee**
 * [GitHub](https://github.com/brianjunhyuplee)
 * [LinkedIn](https://www.linkedin.com/in/brian-lee-559208187/)
 
